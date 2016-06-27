@@ -1,0 +1,22 @@
+{
+  "name": "agantty-electron",
+  "version": "1.0.0",
+  "description": "Agantty wrapped in Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloFincke/agantty-electron.git"
+  },
+  "keywords": [
+    "Agantty",
+    "Electron",
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
